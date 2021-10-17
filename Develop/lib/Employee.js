@@ -23,13 +23,5 @@ class Employee {
     }
 }
 
-  const e = new Employee("Foo", 100, 'joe@joe.com');
 
-// console.log(e);
-// console.log(e.id);
-
-console.log(e.getName());
-console.log(e.getId());
-console.log(e.getEmail());
-console.log(e.getRole());
 module.exports = Employee;
