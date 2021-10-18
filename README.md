@@ -10,17 +10,15 @@
   
   ## Table Of Contents
   
-  - [Installation](#installation)
   - [Usage](#usage)
+  - [Credits](#credits)
   - [Contributing](#contributing)
   - [License](#license)
   - [Questions](#questions?)
   
-  ## Installation
-  
-  This development utilizes the npm inquirer therefore it requires the command log of 'npm i' in order to download and inquirer.
-  
   ## Usage
+  
+  This development utilizes the npm inquirer therefore it requires the command log of 'npm i' in order to download inquirer and jest for running the tests.
   
   Once inquirer has been run a user can command log 'node index.js' and the development will begin by asking questions about the manager. 
   
@@ -30,9 +28,8 @@
   
 ![ScreenShot of My Program Running in the Command Line](./Assets/Screenshot-2.png)
 
-![ScreenShot of My Program](./Assets/Screenshot.png)
-
-<a href="" title="Walk-Through"><img src="" alt="Team Profile Generator Walk Through" width="500px"/></a>
+<a href="https://drive.google.com/file/d/1-NoY7puTP5IKj0G0SUIHdxB8BjSGd72E/view?usp=sharing" title="Walk-Through"><img src="./Assets/Screenshot.png" alt="Team Profile Generator Walk Through" width="500px"/></a>
+- Click on the Photo Above to Be Taken to the Walk-Through
 
 ## Credits
 Built with [JavaScript](https://www.javascript.com/) and [BootStrap](https://getbootstrap.com/)
@@ -147,8 +144,6 @@ Fonts from [Font Awesome](https://fontawesome.com/)
   ## Questions?
   
   <img src="./Assets/cover_photo.jpg" width="100px"> <br>
-  Contact Me, 
-  
-  Paige Olsen, through...
+  ## Paige Olsen
 
   [Github](https://github.com/POlsen-92) or [Email](Paige.El.Olsen@Gmail.com)
