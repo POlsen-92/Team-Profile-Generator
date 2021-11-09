@@ -1,10 +1,10 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-const Engineer = require("./Develop/lib/Engineer");
-const Intern = require("./Develop/lib/Intern");
-const Manager = require("./Develop/lib/Manager");
-const generateHTML = require("./Develop/util/generateHtml");
+const Engineer = require("./lib/Engineer");
+const Intern = require("./lib/Intern");
+const Manager = require("./lib/Manager");
+const generateHTML = require("./util/generateHtml");
 
 const empArr = [];
 const manArr = [];
